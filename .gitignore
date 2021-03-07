@@ -1,0 +1,5 @@
+# Trained models
+models/*.joblib
+
+# IDE
+.idea
